@@ -15,5 +15,9 @@
     "chatbot"
   ],
   "author": "vlrchtlt",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "bbb-bot",
+  "version": "1.0.0",
+  "description": "first version of the bot : webchat for the chatbot contest",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BliBlaBlo"
+  },
+  "keywords": [
+    "web",
+    "chatbot"
+  ],
+  "author": "vlrchtlt",
+  "license": "ISC"
+}
